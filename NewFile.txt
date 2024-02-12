@@ -1,1 +1,4 @@
 This is clonable new file
+
+
+This file was changed by another developer
